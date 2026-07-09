@@ -271,7 +271,8 @@ else:
 
 tier_results = {}
 min_page_hint = 1
-for tier_name, threshold in TIER_THRESHOLDS:
+# Search highest thresholds first so min_page_hint stays valid (same as Ranks).
+for tier_name, threshold in sorted(TIER_THRESHOLDS, key=lambda item: item[1], reverse=True):
     players, found_page = get_last_rank_for_threshold(total_pages, threshold, min_page_hint)
     tier_results[tier_name] = players
     min_page_hint = found_page

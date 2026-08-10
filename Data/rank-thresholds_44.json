@@ -1,13 +1,13 @@
 {
-  "logged_at": "2026-08-10T10:56:20.769959+00:00",
-  "total_players": 120943,
-  "total_players_change": -2,
+  "logged_at": "2026-08-10T10:26:19.346733+00:00",
+  "total_players": 120945,
+  "total_players_change": 2,
   "ranks": [
     {
       "name": "Tier 1",
       "point_cutoff": 10,
-      "players_qualified": 120943,
-      "players_qualified_change": -2
+      "players_qualified": 120945,
+      "players_qualified_change": 2
     },
     {
       "name": "Tier 2",
@@ -24,8 +24,8 @@
     {
       "name": "Tier 4",
       "point_cutoff": 3500,
-      "players_qualified": 72834,
-      "players_qualified_change": -2
+      "players_qualified": 72836,
+      "players_qualified_change": 2
     },
     {
       "name": "Tier 5",

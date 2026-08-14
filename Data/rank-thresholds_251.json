@@ -1,0 +1,49 @@
+{
+  "logged_at": "2026-08-14T18:57:02.060314+00:00",
+  "total_players": 93567,
+  "total_players_change": 167,
+  "ranks": [
+    {
+      "name": "Tier 1",
+      "point_cutoff": 10,
+      "players_qualified": 93567,
+      "players_qualified_change": 167
+    },
+    {
+      "name": "Tier 2",
+      "point_cutoff": 750,
+      "players_qualified": 81512,
+      "players_qualified_change": 84
+    },
+    {
+      "name": "Tier 3",
+      "point_cutoff": 2000,
+      "players_qualified": 66413,
+      "players_qualified_change": 81
+    },
+    {
+      "name": "Tier 4",
+      "point_cutoff": 3500,
+      "players_qualified": 50900,
+      "players_qualified_change": 118
+    },
+    {
+      "name": "Tier 5",
+      "point_cutoff": 6000,
+      "players_qualified": 31165,
+      "players_qualified_change": 134
+    },
+    {
+      "name": "Tier 6",
+      "point_cutoff": 13000,
+      "players_qualified": 7825,
+      "players_qualified_change": 68
+    },
+    {
+      "name": "Tier 7",
+      "point_cutoff": 22000,
+      "players_qualified": 1568,
+      "players_qualified_change": 38
+    }
+  ]
+}

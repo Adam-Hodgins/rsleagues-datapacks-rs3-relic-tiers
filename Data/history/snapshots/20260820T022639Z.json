@@ -1,49 +1,43 @@
 {
+  "schema_version": 1,
+  "series": "relic-tier-cutoffs",
   "logged_at": "2026-08-20T02:26:39.848080+00:00",
   "total_players": 109453,
-  "total_players_change": 28,
   "ranks": [
     {
       "name": "Tier 1",
       "point_cutoff": 10,
-      "players_qualified": 109453,
-      "players_qualified_change": 28
+      "players_qualified": 109453
     },
     {
       "name": "Tier 2",
       "point_cutoff": 750,
-      "players_qualified": 95650,
-      "players_qualified_change": 25
+      "players_qualified": 95650
     },
     {
       "name": "Tier 3",
       "point_cutoff": 2000,
-      "players_qualified": 82075,
-      "players_qualified_change": 100
+      "players_qualified": 82075
     },
     {
       "name": "Tier 4",
       "point_cutoff": 3500,
-      "players_qualified": 69625,
-      "players_qualified_change": 400
+      "players_qualified": 69625
     },
     {
       "name": "Tier 5",
       "point_cutoff": 6000,
-      "players_qualified": 54295,
-      "players_qualified_change": 67
+      "players_qualified": 54295
     },
     {
       "name": "Tier 6",
       "point_cutoff": 13000,
-      "players_qualified": 29150,
-      "players_qualified_change": 450
+      "players_qualified": 29150
     },
     {
       "name": "Tier 7",
       "point_cutoff": 20000,
-      "players_qualified": 17150,
-      "players_qualified_change": 75
+      "players_qualified": 17150
     }
   ]
 }

@@ -1,49 +1,49 @@
 {
-  "logged_at": "2026-09-15T01:27:48.163192+00:00",
-  "total_players": 126704,
+  "logged_at": "2026-09-15T00:57:47.644759+00:00",
+  "total_players": 126698,
   "total_players_change": 6,
   "ranks": [
     {
       "name": "Tier 1",
       "point_cutoff": 10,
-      "players_qualified": 126704,
+      "players_qualified": 126698,
       "players_qualified_change": 6
     },
     {
       "name": "Tier 2",
       "point_cutoff": 750,
-      "players_qualified": 109923,
-      "players_qualified_change": 2
+      "players_qualified": 109921,
+      "players_qualified_change": 1
     },
     {
       "name": "Tier 3",
       "point_cutoff": 2000,
-      "players_qualified": 96272,
-      "players_qualified_change": 3
+      "players_qualified": 96269,
+      "players_qualified_change": 2
     },
     {
       "name": "Tier 4",
       "point_cutoff": 3500,
-      "players_qualified": 85421,
-      "players_qualified_change": 3
+      "players_qualified": 85418,
+      "players_qualified_change": 1
     },
     {
       "name": "Tier 5",
       "point_cutoff": 6000,
-      "players_qualified": 73782,
-      "players_qualified_change": 5
+      "players_qualified": 73777,
+      "players_qualified_change": 1
     },
     {
       "name": "Tier 6",
       "point_cutoff": 13000,
-      "players_qualified": 55828,
-      "players_qualified_change": 5
+      "players_qualified": 55823,
+      "players_qualified_change": 7
     },
     {
       "name": "Tier 7",
       "point_cutoff": 20000,
-      "players_qualified": 45992,
-      "players_qualified_change": 7
+      "players_qualified": 45985,
+      "players_qualified_change": 11
     }
   ]
 }
